@@ -1,1 +1,1 @@
-# Earth-and-Mars
+# Earth-and-Mars project
